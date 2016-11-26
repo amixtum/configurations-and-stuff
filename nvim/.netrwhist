@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/gani/src/scrap/c/char_arrs.c'
+let g:netrw_dirhist_2='/home/gani/src/scrap/c'
+let g:netrw_dirhist_3='/home/gani/src/scrap/c/char_arrs.c'
+let g:netrw_dirhist_4='/home/gani/Documents/courses/cmps101/pa/src/pa1'
